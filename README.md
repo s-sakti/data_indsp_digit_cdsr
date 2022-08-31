@@ -1,6 +1,6 @@
 # INDspeech_DIGIT_CDSR
 
-This is one of the first Indonesian speech datasets for connected digit speech recognition (CDSR). The data was developed by TELKOMRisTI (R&D Division, PT Telekomunikasi Indonesia) under the Asia-Pacific Telecommunity (APT) project. Although it was originally developed for a telecommunication system for hearing and speaking impaired people, it can be used for other applications, i.e., automatic call centers that recognize telephone numbers. 
+This is the first Indonesian speech dataset for connected digit speech recognition (CDSR). The data was developed by TELKOMRisTI (R&D Division, PT Telekomunikasi Indonesia) under the Asia-Pacific Telecommunity (APT) project in 2004. Although it was originally developed for a telecommunication system for hearing and speaking impaired people, it can be used for other applications, i.e., automatic call centers that recognize telephone numbers. 
 
 ## Text and Speech Resources
 
