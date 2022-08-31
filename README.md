@@ -10,13 +10,13 @@ The recording is conducted in parallel for both clean and telephone speech, but 
 
 Table. The percentage of population according to 2000 Census (%A) vs the percentage distribution of speakers in the corpus (%B). 
 
-| Island     |  %A |  %B | Native Languages                         |
-| ---------- | --- | --- | ---------------------------------------- |
-| Java       | 60% | 67% | Sundanese,Javanese, Madurese, Indonesian |
-| Sumatra    | 21% | 21% | Acehnese,Lampung Batak, Minang, Malays   | 
-| Sulawesi   |  7% |  5% | Makassar,Minahasa, Bugis, Gorontalo      | 
-| Kalimantan |  5% |  2% | Banjar                                   |
-| Others     |  7% |  5% | Balinese, Ambonese, Tionghoa             |
+| Island     |  %A |  %B | Native Languages                          |
+| ---------- | --- | --- | ----------------------------------------- |
+| Java       | 60% | 67% | Sundanese, Javanese, Madurese, Indonesian |
+| Sumatra    | 21% | 21% | Acehnese, Lampung, Batak, Minang, Malays  | 
+| Sulawesi   |  7% |  5% | Makassar, Minahasa, Bugis, Gorontalo      | 
+| Kalimantan |  5% |  2% | Banjar                                    |
+| Others     |  7% |  5% | Balinese, Ambonese, Tionghoa              |
 
 ## Training and Test Dataset
 
