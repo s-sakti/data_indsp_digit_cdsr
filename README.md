@@ -14,7 +14,7 @@ The recording is conducted in parallel for both clean and telephone speech, but 
 As it is close to the official AURORA2 digit task, The data consists of 8440 training utterances (spoken by 55 Females, 55 Males) and 4004 testing utterances (spoken by 52 Females, 52 Males), which are equally split into four subsets (1001 utterances in each). These training and testing sets consist of about 8 and 4 hours of speech, respectively.
 
 ## File Format
-"SPK00_F_XXXX" where "SPK00_F" represents the ID of the single female speaker and "XXXX" represents the sentence ID.
+"FSK_" where "SPK00_F" represents the ID of the single female speaker and "XXXX" represents the sentence ID.
 
 ## License
 This data is licensed under the Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0) International License (see LICENSE_CC-BY-NC-4.0.txt).
