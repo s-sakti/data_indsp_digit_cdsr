@@ -8,15 +8,39 @@ The text consists of connected digit tasks among the following digit words: 1 (s
 
 The recording is conducted in parallel for both clean and telephone speech, but we open only the clean speech due to quality issues on telephone speech. Each audio file is a single-channel 16-bit PCM WAV with a sample rate of 16000 Hz. The speech is recorded with 214 speakers (20-40 years). Both genders are distributed evenly. The age is limited to middle age (20-40 years), but they present a wide range of spoken dialects from different ethnic groups.
 
+Table. The percentage of population according to 2000 Census (%A) vs the percentage distribution of speakers in the corpus (%B). 
+
+| Island     |  %A |  %B | Native Languages                         |
+| ---------- | --- | --- | ---------------------------------------- |
+| Java       | 60% | 67% | Sundanese,Javanese, Madurese, Indonesian |
+| Sumatra    | 21% | 21% | Acehnese,Lampung Batak, Minang, Malays   | 
+| Sulawesi   |  7% |  5% | Makassar,Minahasa, Bugis, Gorontalo      | 
+| Kalimantan |  5% |  2% | Banjar                                   |
+| Others     |  7% |  5% | Balinese, Ambonese, Tionghoa             |
 
 ## Training and Test Dataset
 
 As it is close to the official AURORA2 digit task, The data consists of 8440 training utterances (spoken by 55 Females, 55 Males) and 4004 testing utterances (spoken by 52 Females, 52 Males), which are equally split into four subsets (1001 utterances in each). These training and testing sets consist of about 8 and 4 hours of speech, respectively.
 
 ## File Format
-"FSK_" where "SPK00_F" represents the ID of the single female speaker and "XXXX" represents the sentence ID.
+
+```
+"FSK_K281KA.{wav,txt}" 
+```
+
+- Gender ID: F or M
+- Speaker ID: XX
+- Sentence: K281K = "Kosong Dua Delapan Satu Kosong"
+- ".wav" for speech and ".txt" for transcription
 
 ## License
+
 This data is licensed under the Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0) International License (see LICENSE_CC-BY-NC-4.0.txt).
 You can use the data free for non-commercial purposes, but you have to cite our paper if your work uses our data in your publication. Furthermore, you are not allowed to create a copy of this dataset and share it publicly in your own repository without our permission.
 Citation
+
+## Citation
+
+```
+
+```
