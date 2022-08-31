@@ -41,6 +41,8 @@ Citation
 
 ## Citation
 
+Please cite the following paper:
+
 ```
 
 ```
