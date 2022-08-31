@@ -44,7 +44,7 @@ Citation
 Please cite the following paper [[Sakti et al, 2004](https://www.isca-speech.org/archive_v0/interspeech_2004/i04_1037.html)]:
 
 ```
-@inproceedings{sakti-tts-cocosda-2008,
+@inproceedings{sakti-digit-icslp-2004,
     title = "Indonesian Speech Recognition for Hearing and Speaking Impaired People",
     author = "Sakti, Sakriani and Hutagaol, Paulus and Arman, Arry Akhmad and Nakamura, Satoshi",
     booktitle = "Proc. International Conference on Spoken Language Processing (INTERSPEECH - ICSLP)",
