@@ -37,7 +37,6 @@ Following the official AURORA2 digit task, the data consists of 8440 training ut
 
 This data is licensed under the Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0) International License (see LICENSE_CC-BY-NC-4.0.txt).
 You can use the data free for non-commercial purposes, but you have to cite our paper if your work uses our data in your publication. Furthermore, you are not allowed to create a copy of this dataset and share it publicly in your own repository without our permission.
-Citation
 
 ## Citation
 
